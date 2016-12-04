@@ -1,0 +1,13 @@
+------------------------------------------------------------------------
+r5 | antiarc | 2009-10-07 17:39:47 +0000 (Wed, 07 Oct 2009) | 1 line
+Changed paths:
+   M /trunk/LibBetterBlizzOptions-1.0/LibBetterBlizzOptions-1.0.lua
+
+Reset frames to UIParent center on login, so that goofy positions don't get cached in framelayout.
+------------------------------------------------------------------------
+r4 | antiarc | 2008-10-29 19:01:12 +0000 (Wed, 29 Oct 2008) | 1 line
+Changed paths:
+   M /trunk/LibBetterBlizzOptions-1.0/LibBetterBlizzOptions-1.0.lua
+
+Add mouse wheel scrolling to addons list frame
+------------------------------------------------------------------------

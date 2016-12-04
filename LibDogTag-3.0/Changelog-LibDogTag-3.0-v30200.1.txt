@@ -1,0 +1,28 @@
+------------------------------------------------------------------------
+r220 | shefki | 2009-08-04 19:35:06 +0000 (Tue, 04 Aug 2009) | 2 lines
+Changed paths:
+   A /tags/v30200.1 (from /trunk:219)
+
+Tag v30200.1
+
+------------------------------------------------------------------------
+r219 | shefki | 2009-08-04 19:32:43 +0000 (Tue, 04 Aug 2009) | 2 lines
+Changed paths:
+   M /trunk/Categories/Misc.lua
+
+Fix FormatDuration for the format string changes that happened forever ago.
+
+------------------------------------------------------------------------
+r218 | shefki | 2009-08-04 19:32:05 +0000 (Tue, 04 Aug 2009) | 2 lines
+Changed paths:
+   M /trunk/LibDogTag-3.0.toc
+
+Bump TOC for 3.2
+
+------------------------------------------------------------------------
+r217 | s8095324 | 2009-05-25 21:05:16 +0000 (Mon, 25 May 2009) | 1 line
+Changed paths:
+   M /trunk/Localization/zhTW.lua
+
+zhTW update
+------------------------------------------------------------------------

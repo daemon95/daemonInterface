@@ -1,0 +1,16 @@
+------------------------------------------------------------------------
+r98 | tardmrr | 2011-05-15 20:34:21 +0000 (Sun, 15 May 2011) | 2 lines
+Changed paths:
+   M /trunk/LibKeyBound-1.0/LibKeyBound-1.0.lua
+
+LibKeyBound-1.0:
+  * Fixed bug in keybind shortening code to catch 'SPACE' in addition to 'SPACEBAR'
+------------------------------------------------------------------------
+r97 | ananhaid | 2011-03-07 07:33:14 +0000 (Mon, 07 Mar 2011) | 2 lines
+Changed paths:
+   M /trunk/LibKeyBound-1.0/Locale-zhCN.lua
+   M /trunk/LibKeyBound-1.0/Locale-zhTW.lua
+
+LibKeyBound-1.0:
+- zhCN/zhTW update.
+------------------------------------------------------------------------

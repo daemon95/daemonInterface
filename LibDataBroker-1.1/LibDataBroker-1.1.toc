@@ -1,0 +1,14 @@
+## Interface: 30200
+## LoadOnDemand: 1
+## Title: Lib: DataBroker-1.1
+## Notes: Library to provide interface to DataBroker plugins
+## Author: Tekkub
+## X-eMail: tekkub@gmail.com
+## X-Category: Library
+## X-License: GPL
+## X-Curse-Packaged-Version: Release
+## X-Curse-Project-Name: LibDataBroker-1.1
+## X-Curse-Project-ID: libdatabroker-1.1
+## X-Curse-Repository-ID: wow/libdatabroker-1-1/mainline
+
+LibDataBroker-1.1\LibDataBroker-1.1.lua

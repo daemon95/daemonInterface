@@ -1,0 +1,12 @@
+﻿## Interface: 30300
+## LoadOnDemand: 1
+## Title: Lib: Babble-3.0
+## Notes: A root library to help with localizations.
+## Author: ckknight
+## X-eMail: ckknight@gmail.com
+## X-Category: Library
+## X-License: MIT
+
+## Dependencies: Ace3
+
+LibBabble-3.0\LibBabble-3.0.lua

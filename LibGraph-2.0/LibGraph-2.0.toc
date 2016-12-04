@@ -1,0 +1,17 @@
+## Interface: 30100
+## LoadOnDemand: 1
+## Title: Lib: Graph-2.0
+## Version: 2.0.1
+## Notes: A library allowing for easy creation of graphs
+## Author: Cryect (Updated by Xinhuan)
+## X-Category: Library
+## X-Email: xinhuan AT gmail DOT com
+## X-Curse-Packaged-Version: r45
+## X-Curse-Project-Name: LibGraph-2.0
+## X-Curse-Project-ID: libgraph-2-0
+## X-Curse-Repository-ID: wow/libgraph-2-0/mainline
+
+## Dependencies: Ace3
+
+LibGraph-2.0\LibGraph-2.0.lua
+

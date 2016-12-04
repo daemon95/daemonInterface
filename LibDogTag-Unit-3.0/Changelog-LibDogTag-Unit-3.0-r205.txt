@@ -1,0 +1,19 @@
+------------------------------------------------------------------------
+r205 | parnic | 2010-09-06 02:14:54 +0000 (Mon, 06 Sep 2010) | 3 lines
+Changed paths:
+   M /trunk/Categories/Auras.lua
+   M /trunk/Categories/DruidMana.lua
+   M /trunk/Categories/Power.lua
+   M /trunk/Categories/Status.lua
+   M /trunk/LibDogTag-Unit-3.0.toc
+
+LibDogTag-Unit-3.0:
+- updated for cataclysm: removed references to Divine Intervention as the spell has been removed and replaced references to UNIT_(MAX)MANA/ENERGY/FOCUS/RAGE/HAPPINESS with UNIT_(MAX)POWER
+- bumped toc to 30300 and set X-Compatible-With to 40000
+------------------------------------------------------------------------
+r204 | ckknight | 2010-01-09 23:30:06 +0000 (Sat, 09 Jan 2010) | 1 line
+Changed paths:
+   M /trunk/Categories/Characteristics.lua
+
+If LibBossIDs-1.0 is detected, use it to check for boss status for UnitClassification checks.
+------------------------------------------------------------------------

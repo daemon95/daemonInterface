@@ -1,0 +1,8 @@
+------------------------------------------------------------------------
+r34 | yssaril | 2010-09-19 17:07:03 +0000 (Sun, 19 Sep 2010) | 1 line
+Changed paths:
+   M /trunk/.pkgmeta
+   M /trunk/AceGUI-3.0-SharedMediaWidgets.toc
+
+add libstub and acegui as externals via pkgmeta (just in case someone decides to only disembed the widgets and nothing else)
+------------------------------------------------------------------------
